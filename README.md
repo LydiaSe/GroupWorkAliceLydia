@@ -53,7 +53,7 @@ Whether you are part of the management team or you are an employee, you will acc
   
   d) Or quit without saving by clicking on the "Cancel" button
 
-3.From the main page, after logging-in, you can access the management section. From there, you can manage you employees' absences :
+3. From the main page, after logging-in, you can access the management section. From there, you can manage you employees' absences :
   
   a) To add an absence : 
     
