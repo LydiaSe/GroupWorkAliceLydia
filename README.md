@@ -6,6 +6,7 @@ This absences management application wa brought to you by Alice GUILLOU and Lydi
 It is meant to help the direction team managing the absences of each employee within a compagny.
 
 Lydia SERRAYE  : Scrum Master
+
 Alice GUILLOU : Product Owner
 
 ###########################################################################################################
