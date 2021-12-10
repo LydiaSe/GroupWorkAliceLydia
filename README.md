@@ -44,19 +44,31 @@ Whether you are part of the management team or you are an employee, you will acc
 1. You can find the list of employees by clicking on the "Employees List" button, right after logging-in.
 
 2. From this list of employees, you can see and modify the details of each employee :
+  
   a) Select one of the employee by ticking the little dot on the left of his name
+  
   b) Modify the data by simply writing in the right typing space
+  
   c) Save the modified information by cliking on the "Save" button
+  
   d) Or quit without saving by clicking on the "Cancel" button
 
 3.From the main page, after logging-in, you can access the management section. From there, you can manage you employees' absences :
+  
   a) To add an absence : 
+    
     - click on the '+' button,
+    
     - type in the name of the absent employee,
+   
     - inform of the duration of the absence and its gravity,
+    
     - enquire the date of the abscence on the calendar.
+  
   b) Once an abence shows up (either added by one of your coworkers or you), you can modify the dealine before which the employee should send his justification by clicking on the "Deadline Calendar" button
+  
   c) You can look up for the justification of each absent employee by cliking on the link below the absence notification.
+  
   d) From this page you can exchange with the absent employee thanks to the messaging service.
 
 ------------------------------------------------------------------------------------------------------------
